@@ -39,8 +39,6 @@ Check the routes: `/check-redis` and `/test-redis`
 - https://www.cloudways.com/blog/laravel-and-api-rate-limiting/
 - https://www.youtube.com/watch?v=TQSDi3e0TxU
 
-![rate_limit](https://github.com/Ruslan-Aliyev/Laravel10_Newest_Notes/assets/6761422/282bba79-da39-4dbf-aacf-6f01c9b0c80e)
-
 # Setup on Windows
 
 - https://gist.github.com/lnfel/ab04028d6b115304ca5daef145710ac0
