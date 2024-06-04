@@ -17,6 +17,8 @@ REDIS_CLIENT=predis
 
 Check the routes: `/check-redis` and `/test-redis`
 
+See web route, RedisController & RouteServiceProvider to see the things that can be done
+
 # For cache
 
 `CACHE_DRIVER=redis`
@@ -32,6 +34,10 @@ Check the routes: `/check-redis` and `/test-redis`
 
 - https://www.solo.io/topics/rate-limiting
 - See also: https://github.com/GrahamCampbell/Laravel-Throttle
+
+# Install
+
+- https://www.techalyst.com/posts/install-and-configure-redis-server-for-laravel
 
 # Setup on Windows
 
